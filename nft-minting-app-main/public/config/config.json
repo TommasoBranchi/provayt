@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xADD6731998dFb29d5EFf6cFa23EeB5d1E1bD90dE",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xadd6731998dfb29d5eff6cfa23eeb5d1e1bd90de",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "ProvaYT",
+  "SYMBOL": "PYT",
+  "MAX_SUPPLY": 10,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/provayt",
+  "SHOW_BACKGROUND": true
+}
