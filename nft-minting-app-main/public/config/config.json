@@ -10,7 +10,7 @@
   "SYMBOL": "PYT",
   "MAX_SUPPLY": 10,
   "WEI_COST": 75000000000000000,
-  "DISPLAY_COST": 0,075,
+  "DISPLAY_COST": 0.075,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/provayt",
